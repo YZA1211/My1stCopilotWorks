@@ -8,7 +8,7 @@
 
 [https://yza1211.github.io/My1stCopilotWorks/](https://yza1211.github.io/My1stCopilotWorks/)
 
-> GitHub Pages 已設定從 `main` 分支的 `/(root)` 發佈。首次部署進行中，請稍後確認上方網址。
+> GitHub Pages 已設定從 `main` 分支的 `/(root)` 發佈；網站可透過上方網址瀏覽。
 
 ## 功能
 

@@ -8,7 +8,7 @@
 
 [https://yza1211.github.io/My1stCopilotWorks/](https://yza1211.github.io/My1stCopilotWorks/)
 
-> GitHub Pages 尚未啟用；目前網址尚無法瀏覽。請在 GitHub repo 的 Settings > Pages 設定 `main` 分支與 `/(root)` 後重新確認。
+> GitHub Pages 已設定從 `main` 分支的 `/(root)` 發佈。首次部署進行中，請稍後確認上方網址。
 
 ## 功能
 
